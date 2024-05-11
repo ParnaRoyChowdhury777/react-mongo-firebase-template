@@ -83,7 +83,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Where to Contact
 
-- [Subhadeep Roy](https://www.linkedin.com/in/subhadeeproy3902/)
+- [Parna Roy Chowdhury](https://www.linkedin.com/in/parna-roy-chowdhury-756331256/)
 
 ## Support
 
